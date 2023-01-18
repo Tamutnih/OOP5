@@ -1,4 +1,4 @@
-package job.presenter;
+package demo.com.exanple;
 
 import job.model.students.StudentGroup;
 import job.view.controller.ControllerAttendanceGroup;

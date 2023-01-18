@@ -1,4 +1,4 @@
-package job;
+package demo.com.exanple;
 
 import job.model.attandance.AttendanceGroup;
 import job.model.attandance.AttendanceVisitStudent;

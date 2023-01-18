@@ -1,4 +1,4 @@
-package job.model.students;
+package demo.com.exanple;
 
 public class Student {
     private String name;
